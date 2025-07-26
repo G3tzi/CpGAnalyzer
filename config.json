@@ -1,0 +1,8 @@
+{
+  "server_host": "127.0.0.1",
+  "server_port": 8002,
+  "default_host": "127.0.0.1",
+  "default_port": 8002,
+  "default_gc_threshold": 0.5,
+  "default_oe_threshold": 0.6
+}

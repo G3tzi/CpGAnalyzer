@@ -1,26 +1,26 @@
 # Project Directory Structure
 
-├── [client.py](#client)
-├── [server.py](#server)
-├── [utils.py](#utils)
-├── [config.py](#config)
-├── config.json
-├── requirements.txt
-├── README.mdv
-├── STRUCTURE.md
-├── LICENSE
-├── client/
-│   ├── [requests.py](#client-requests)
-│   └── [utils.py](#client-utils)
-├── models/
-│   └── [requests.py](#models-requests)
-├── server/
-│   ├── [api.py](#api)
-│   └── [routers.py](#routers)
-└── services/
-    ├── [cpg.py](#cpg)
-    ├── [encode_api.py](#encode-api)
-    └── [island_detection.py](#islands)
+- [client.py](#client)
+- [server.py](#server)
+- [utils.py](#utils)
+- [config.py](#config)
+- config.json
+- requirements.txt
+- README.md
+- STRUCTURE.md
+- LICENSE
+- client/
+   - [requests.py](#client-requests)
+   - [utils.py](#client-utils)
+- models/
+   - [requests.py](#models-requests)
+- server/
+   - [api.py](#api)
+   - [routers.py](#routers)
+- services/
+    - [cpg.py](#cpg)
+    - [encode_api.py](#encode-api)
+    - [island_detection.py](#islands)
 
 ---
 # Functions descriptions
